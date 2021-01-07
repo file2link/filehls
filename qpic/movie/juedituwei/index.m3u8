@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:6
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="https://cdn.jsdelivr.net/gh/file2link/filehls@master/qpic/movie/juedituwei/file.key"
+#EXT-X-KEY:METHOD=AES-128,URI="file.key"
 #EXTINF:4.960000,
 https://s5.mogucdn.com/mlcdn/c45406/210106_4kkckligc273h00320g7di5d0hgfk
 #EXTINF:5.040000,
